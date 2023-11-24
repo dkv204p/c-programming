@@ -1,6 +1,9 @@
 ---
 name: Security Vulnerability Report
 about: Report a security vulnerability in the c-programming repository
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
