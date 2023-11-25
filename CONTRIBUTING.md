@@ -14,7 +14,7 @@ This project follows a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcomi
 
 2. **Clone the forked repository to your local machine:**
    
-   git clone https://github.com/your-username/c-programming.git
+   git clone https://github.com/dkv204p/c-programming.git
 
 4. **Create a new branch for your feature or bug fix:**
 
