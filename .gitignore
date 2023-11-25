@@ -22,3 +22,6 @@
 *.tmlanguage.cache
 *.tmPreferences.cache
 *.stTheme.cache
+
+# Text Files
+*.txt
