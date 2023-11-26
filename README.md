@@ -10,7 +10,7 @@ Welcome to the "c-programming" repository! This collection serves as a comprehen
   - [Files](#files)
   - [Structures](#structures)
   - [Enums](#enums)
-  - [Data Structures and Algorithms (DSA)](#Data Structures and Algorithms (DSA))
+  - [Data Structures and Algorithms (DSA)](#Data-Structures-and-Algorithms-(DSA))
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,7 +37,7 @@ In the `Structures` folder, discover programs that demonstrate the use of struct
 
 Explore the `Enums` folder to learn about enumerations in C. Enumerations provide a way to represent a set of named integer constants, and this section provides examples and explanations to guide you through their usage.
 
-### Data Structures and Algorithms (DSA)
+### Data-Structures-and-Algorithms-(DSA)
 
 The `Data Structures and Algorithms (DSA)` folder is a collection of diverse C programming examples covering a range of topics. Use these examples to practice and reinforce your understanding of C programming concepts.
 
