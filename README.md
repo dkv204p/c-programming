@@ -39,7 +39,7 @@ Explore the `Enums` folder to learn about enumerations in C. Enumerations provid
 
 ### DSA
 
-The `Data Structures and Algorithms (DSA)` folder is a collection of diverse C programming examples covering a range of topics. Use these examples to practice and reinforce your understanding of C programming concepts.
+The `Data Structures and Algorithms (DSA)` directory organizes C programming examples based on various Data Structures and Algorithms (DSA) concepts. Each subfolder corresponds to a specific DSA topic, making it easier to locate and learn from relevant examples. Use these programs to practice and reinforce your understanding of C programming in the context of different DSA concepts.
 
 ## How to Use
 
