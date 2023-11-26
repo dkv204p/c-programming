@@ -50,7 +50,7 @@ If you encounter any issues with the project or have suggestions for improvement
 - **Files:** Store programs related to file handling.
 - **Structures:** Include programs and content related to structures.
 - **Enums:** Store programs demonstrating the use of enums.
-- **Examples:** Place additional examples or miscellaneous programs here.
+- **Data Structures and Algorithms (DSA):** Place additional examples or miscellaneous programs here (topic wise).
 
 ## License
 
