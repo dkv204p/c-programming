@@ -10,7 +10,7 @@ Welcome to the "c-programming" repository! This collection serves as a comprehen
   - [Files](#files)
   - [Structures](#structures)
   - [Enums](#enums)
-  - [Data Structures and Algorithms (DSA)](#examples)
+  - [Data Structures and Algorithms (DSA)](#Data Structures and Algorithms (DSA))
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
